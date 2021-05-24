@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaston Arias</h1>
-<h3 align="center">A Software Developer Sr (on BackEnd 95%)</h3>
+<h3 align="center">A Software Developer Sr (on BackEnd)</h3>
 
-- 🔭 I’m currently working on **in Calypso Proyect (Financial Back))**
+- 🔭 I’m currently working on **in Calypso Proyect (Financial Back)**
 
 - 🌱 I’m currently learning **Architecture HA + Microservice Pattern**
 
